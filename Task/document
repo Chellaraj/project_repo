@@ -1,0 +1,4 @@
+Task : reading data from database and writting into csv file.
+	i) writting code to read and wirte using python
+	ii) celery have to da the above task
+	iii) tornado have to invoke the service.
